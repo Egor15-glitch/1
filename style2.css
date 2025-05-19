@@ -1,0 +1,63 @@
+.box{
+    height: 350px;
+    width: 350px;
+}
+
+.golen{
+    height: 350px;
+    width: 350px;
+}
+
+.had{
+    height: 350px;
+    width: 350px;
+}
+
+.bints{
+    height: 350px;
+    width: 350px;
+}
+
+body{
+    background-color: bisque;
+}
+
+a{
+    text-decoration: none;
+    color: #000;}
+
+dl{
+    display: flex;
+    float: right;
+    margin-right: 100px;
+    gap: 50px;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.Logo-holider{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;}
+
+.table{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    width: 1700px;}
+
+
+
+
+.item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.item h1{
+    text-align: center;
+
+}

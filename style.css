@@ -1,0 +1,87 @@
+a{
+    text-decoration: none;
+    color: #fff;
+
+
+
+}
+
+header{
+
+
+}
+
+dl{
+    display: flex;
+    float: right;
+    margin-right: 100px;
+    gap: 50px;
+}
+
+a:hover{
+    color: aqua;
+}
+
+body{
+    background-image: url("http://localhost:63342/untitled/%D0%AD%D0%BA%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0.png");
+    height: 100%;
+    width: 100%;
+    background-size: cover
+
+
+    }
+
+
+
+.Logo-holider{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+img{
+    display: block;
+    margin-top: 200px;
+    margin-left: 650px;
+}
+
+/*.btn{*/
+/*    margin-top: 50px;*/
+/*    margin-left: 700px;*/
+/*}*/
+
+button{
+    background-color: burlywood;
+    border-radius: 10px;
+    font-size: 50px;
+    color: white;
+    font-family: PMingLiU-ExtB;
+}
+
+
+h1{
+    margin-left: 590px;
+    color: antiquewhite;
+    font-size: 40px;
+}
+
+h2{
+    margin-left: 700px;
+    color: antiquewhite;
+    font-size: 30px;
+}
+
+.btn1{
+   /*margin-top: 0*/
+
+    background-color: darkblue;
+}
+
+.btns{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+
